@@ -132,9 +132,8 @@ This repository showcases the schematic design, physical layout, and simulation 
 
 ## 👨‍💻 Contributors
 
-- **Rohit J** — [LinkedIn Profile (https://www.linkedin.com/in/rohitj264/)]  
-- **Rohan S Paraddi** — [LinkedIn Profile (https://www.linkedin.com/in/rohanparaddi/)]  
-
+**LinkedIN Profile:** [Rohit](https://www.linkedin.com/in/rohitj264/)
+**LinkedIN Profile:** [Rohan S Paraddi](https://www.linkedin.com/in/rohanparaddi/)
 
 
 
