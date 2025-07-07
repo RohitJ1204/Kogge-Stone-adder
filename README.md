@@ -107,7 +107,7 @@ Project images are organized under the `images/` folder for clarity:
 
 | Description        | Image                                           |
 |-------------------|-------------------------------------------------|
-| Testbench Setup   | ![Test Setup](Images/test_circuits/test_setup.png) |
+| Testbench Setup   | ![Test Setup](Images/test_circuits/ksa_test.png) |
 | Input Waveform A  | ![Input A](Images/test_circuits/input_a.png)    |
 | Input Waveform B  | ![Input B](Images/test_circuits/input_b.png)    |
 
