@@ -72,7 +72,7 @@ This repository showcases the schematic design, physical layout, and simulation 
 
 ## 🎨 Project Visuals
 
-Project images are organized under the `images/` folder for clarity:
+
 
 
 ---
